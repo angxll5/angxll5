@@ -20,17 +20,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confunción es parte del programa...</h2></summary>
+    <summary><h2 style="display: inline-block">Los errores son parte de aprender...</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-<!--- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Normalmente programo en **Java, Html, CSS y Python**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**-->
+- 🌱 Me gusta **ver videos informativos acerca de ciertos lenguajes, también leer información sobre los lenguajes**
 
-<!--- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**-->
+- ☁️ Me interesa mucho saber como se hacen los programas. Cada día me gusta informarme. **VLS**
 
 <!--- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)-->
 
